@@ -1,0 +1,6 @@
+framework module Recsys {
+  umbrella header "Recsys-umbrella.h"
+
+  export *
+  module * { export * }
+}

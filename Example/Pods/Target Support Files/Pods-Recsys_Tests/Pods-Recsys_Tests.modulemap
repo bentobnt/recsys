@@ -1,0 +1,6 @@
+framework module Pods_Recsys_Tests {
+  umbrella header "Pods-Recsys_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
